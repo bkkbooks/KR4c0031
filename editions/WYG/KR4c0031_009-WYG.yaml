@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0031/WYG/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 皎然集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:19:02.277985'
+  source:
+    repository: kanripo
+    path: KR4c0031/KR4c0031_009.txt
+hash: sha256:f072aa6ca741b89517a8da4c83984fd0da4f847184e709ea3107c341b0975870
