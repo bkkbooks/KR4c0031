@@ -29,6 +29,7 @@ markers:
   - {type: variant, offset: 14, length: 1, content: 眀, WYG: 明}
   - {type: variant, offset: 15, length: 1, content: 逰, WYG: 遊}
   - {type: punctuation, offset: 18, content: (, id: KR4c0031_krp_005-bkkpn1}
+  - {type: voice, offset: 18, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 20, content: ), id: KR4c0031_krp_005-bkkpn2}
   - {type: 'kr:newline', offset: 20, content: '
 
@@ -111,6 +112,7 @@ markers:
   - {type: punctuation, offset: 177, content: (, id: KR4c0031_krp_005-bkkpn3}
   - {type: variant, offset: 177, length: 1, content: 幷, WYG: 并}
   - {type: substitution, offset: 177, original: 幷, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20385}}
+  - {type: voice, offset: 177, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 179, content: ), id: KR4c0031_krp_005-bkkpn4}
   - {type: 'kr:newline', offset: 179, content: '
 
@@ -262,6 +264,7 @@ markers:
       ', id: KR4c0031_krp_005-bkkkrnewl33}
   - {type: line-break, offset: 511, content: '', id: KR4c0031_SBCK_005-2a10}
   - {type: punctuation, offset: 511, content: (, id: KR4c0031_krp_005-bkkpn5}
+  - {type: voice, offset: 511, length: 15, name: note, id: n3}
   - {type: punctuation, offset: 519, content: /, id: KR4c0031_krp_005-bkkpn6}
   - {type: substitution, offset: 521, original: 脚, replacement: 腳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20810}}
   - {type: variant, offset: 525, length: 1, content: 篆, SBCK: 􅂐}
@@ -292,6 +295,7 @@ markers:
   - {type: variant, offset: 573, length: 1, content: 歲, SBCK: 􅀊}
   - {type: variant, offset: 573, length: 1, content: 歲, WYG: 嵗}
   - {type: punctuation, offset: 581, content: (, id: KR4c0031_krp_005-bkkpn8}
+  - {type: voice, offset: 581, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 585, content: /, id: KR4c0031_krp_005-bkkpn9}
   - {type: punctuation, offset: 589, content: ), id: KR4c0031_krp_005-bkkpn10}
   - {type: 'kr:newline', offset: 589, content: '
@@ -371,6 +375,7 @@ markers:
   - {type: variant, offset: 754, length: 1, content: 灊, SBCK: 􅈞}
   - {type: variant, offset: 754, length: 1, content: 灊, WYG: 􅈞}
   - {type: punctuation, offset: 755, content: (, id: KR4c0031_krp_005-bkkpn11}
+  - {type: voice, offset: 755, length: 3, name: note, id: n5}
   - {type: punctuation, offset: 757, content: /, id: KR4c0031_krp_005-bkkpn12}
   - {type: punctuation, offset: 758, content: ), id: KR4c0031_krp_005-bkkpn13}
   - {type: variant, offset: 761, length: 1, content: 㳒, WYG: 法}
@@ -884,6 +889,7 @@ markers:
   - {type: indent, offset: 1866, content: 　　, id: KR4c0031_krp_005-bkkind44}
   - {type: variant, offset: 1873, length: 1, content: 卦, WYG: 赴}
   - {type: punctuation, offset: 1878, content: (, id: KR4c0031_krp_005-bkkpn14}
+  - {type: voice, offset: 1878, length: 10, name: note, id: n6}
   - {type: variant, offset: 1883, length: 1, content: 洲, WYG: 州}
   - {type: punctuation, offset: 1886, content: /, id: KR4c0031_krp_005-bkkpn15}
   - {type: punctuation, offset: 1888, content: ), id: KR4c0031_krp_005-bkkpn16}
@@ -1251,6 +1257,7 @@ markers:
   - {type: line-break, offset: 2692, content: '', id: KR4c0031_SBCK_005-8b01}
   - {type: indent, offset: 2692, content: 　　, id: KR4c0031_krp_005-bkkind64}
   - {type: punctuation, offset: 2702, content: (, id: KR4c0031_krp_005-bkkpn17}
+  - {type: voice, offset: 2702, length: 5, name: note, id: n7}
   - {type: substitution, offset: 2705, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: punctuation, offset: 2707, content: ), id: KR4c0031_krp_005-bkkpn18}
   - {type: 'kr:newline', offset: 2707, content: '
@@ -1672,4 +1679,4 @@ markers:
 
       ', id: KR4c0031_krp_005-bkkkrnewl244}
   back: []
-hash: sha256:e4ff59b63ebcb32bee6e8fffa7336da08492cd520046e7036abeabcbec86ffd3
+hash: sha256:5e6590fc99b4489a092ec6ac967b88cfcfe4b6d36660e2c1a64db1154f4ddab4
